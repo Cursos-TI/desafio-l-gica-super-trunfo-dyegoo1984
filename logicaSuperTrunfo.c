@@ -1,7 +1,7 @@
 // Autor: Diego dos Santos Oliveira 
 // Matrícula: 2025 0372 2821
 // Introdução à Programação de Computadores
-// Tema 2 - Desafio Nível Novato: Comparando as Cartas do Super Trunfo
+// Tema 2 - Desafio Nível Aventureiro: Comparando as Cartas do Super Trunfo
 
 #include <stdio.h>
 
